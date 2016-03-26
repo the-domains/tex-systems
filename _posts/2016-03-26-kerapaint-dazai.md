@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "Aukščiausios kokybės dažai su mikro keraminėmis dalelėmis. Skirti naudoti kur reikalinga gauti ypatingai patvarų mechaniniam poveikiui ir atsparų užteršimui įvairioms medžiagoms, kaip pvz. raudonas vynas, kava, riebalai ir t.t.\_Idealiai tinka naudoti norint išgauti šiuolaikiškus reikalavimus atitinkantį vienodai lygų paviršių. Rekomenduojami didelių plotų dažymui, kurių paviršiai atspindi slenkanti šviesos srautą t.y. būtina gauti lygų be jokių pastebimų perėjimų paviršių. Lengva dažyti, džiūna neskleisdami kvapo. Ypatingas dažų savybes patvirtina atestuotų įstaigų išduoti sertifikatai."
-datePublished: '2016-03-26T20:37:52.719Z'
-dateModified: '2016-03-26T20:37:28.268Z'
+datePublished: '2016-03-26T20:39:38.982Z'
+dateModified: '2016-03-26T20:39:36.096Z'
 title: Kerapaint dažai
 author: []
 sourcePath: _posts/2016-03-26-kerapaint-dazai.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: kerapaint-dazai/index.html
-_type: WebPage
+_type: Article
 
 ---
 Aukščiausios kokybės dažai su mikro keraminėmis dalelėmis. Skirti naudoti kur reikalinga gauti ypatingai patvarų mechaniniam poveikiui ir atsparų užteršimui įvairioms medžiagoms, kaip pvz. raudonas vynas, kava, riebalai ir t.t. Idealiai tinka naudoti norint išgauti šiuolaikiškus reikalavimus atitinkantį vienodai lygų paviršių. Rekomenduojami didelių plotų dažymui, kurių paviršiai atspindi slenkanti šviesos srautą t.y. būtina gauti lygų be jokių pastebimų perėjimų paviršių. Lengva dažyti, džiūna neskleisdami kvapo. Ypatingas dažų savybes patvirtina atestuotų įstaigų išduoti sertifikatai.
