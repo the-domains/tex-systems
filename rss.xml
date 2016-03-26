@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Tex systems]]></title>
         <description><![CDATA[Tex systems]]></description>
-        <link>https://thegrid.ai/tex-systems/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 20:49:52 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/tex-systems/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Mar 2016 20:49:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Apie mus]]></title>
             <description><![CDATA[<article><h1>Apie mus</h1><p>"Tex systems" UAB, kaip vokietijos gamyklos Tex-Color medžiagų platintojas Lietuvoje, įkurta 2011 m. Jau daugiau nei 13 metų Lietuvos rinkoje gyvuojančios prekės ženklas </p></article>]]></description>
-            <link>https://thegrid.ai/tex-systems/apie-mus/index.html</link>
+            <link>undefinedapie-mus/index.html</link>
             <guid isPermaLink="false">6bac3824-f7a7-4776-9341-be7e147f9593</guid>
-            <pubDate>Sat, 26 Mar 2016 20:49:21 GMT</pubDate>
+            <pubDate>Sat, 26 Mar 2016 20:49:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
