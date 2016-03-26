@@ -35,7 +35,7 @@ color:
     - '#e70022'
     - '#0000ff'
   brandStrength: 1
-  lightness: 0
+  lightness: 0.8125
   saturation: 0.2108124832157046
   rhythmicContrast: 1
 purpose: []
