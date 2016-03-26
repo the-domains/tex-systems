@@ -1,41 +1,41 @@
-name: Tex systems
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.55977
 title: Vokiški dažai namams ir ne tik
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.3803258
+  brandStrength: 0.25
+  lightness: 0.5344611
   brandColors:
     - '#b7fe00'
     - '#016100'
     - '#fe0000'
     - '#d66c00'
     - '#00e301'
-  brandStrength: 0.25
-  lightness: 0.5
-  saturation: 0.8125
-  rhythmicContrast: 0.25
-purpose: []
+  rhythmicContrast: 0.5388471
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Tex systems
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.3978697
+layout_spectrum: 0.1961153
