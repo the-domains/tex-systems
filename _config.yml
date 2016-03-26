@@ -1,29 +1,41 @@
-name: Tex systems
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.37969
 title: Tex systems
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.2108124832157046
+  brandStrength: 1
+  lightness: 0.4987422833219171
   brandColors:
     - '#00a0db'
     - '#fbf558'
     - '#e88e3c'
     - '#e70022'
     - '#0000ff'
-  brandStrength: 1
-  lightness: 0.49874228332191706
-  saturation: 0.21081248321570456
   rhythmicContrast: 0.8642976523842663
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Tex systems
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.37969
+layout_spectrum: 1
