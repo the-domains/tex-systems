@@ -2,22 +2,15 @@
     <channel>
         <title><![CDATA["TEX-COLOR" ]]></title>
         <description><![CDATA["TEX-COLOR" ]]></description>
-        <link>https://thegrid.ai/tex-systems/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 18:00:27 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/tex-systems/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Apr 2016 18:00:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KeraPaint dazai]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/56b1ef97-c89e-4e3d-a0b0-ccb760a9b749.jpg" alt="" title="">]]></description>
             <link>https://s3-us-west-2.amazonaws.com/the-grid-img/p/9bd7b4bd905167d00e33cdb757018eb06a37cfa3.png</link>
             <guid isPermaLink="false">4dc80e04-5979-434e-8f7b-4f61179c126d</guid>
-            <pubDate>Sat, 30 Apr 2016 18:00:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["TEX-COLOR"]]></title>
-            <description><![CDATA[<article><h1>&quot;TEX-COLOR&quot;</h1></article>]]></description>
-            <link>https://thegrid.ai/tex-systems/index.html</link>
-            <guid isPermaLink="false">1497845d-c9ff-44db-902c-a97ce5dd87c9</guid>
             <pubDate>Sat, 30 Apr 2016 18:00:26 GMT</pubDate>
         </item>
     </channel>
